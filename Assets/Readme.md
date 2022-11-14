@@ -1,0 +1,1 @@
+Here we can save the different assets. Artist team can decide how they manage this folder
