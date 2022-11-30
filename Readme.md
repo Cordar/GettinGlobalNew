@@ -4,3 +4,6 @@
 ## Import the necessary assets from the epic store (you have to download them and import them into the project)
 
 [FANTASTIC - Village Pack](https://www.unrealengine.com/marketplace/en-US/product/fantastic-village-pack)
+
+
+All rights reserved for everything in this repository by the collaborators of this project!
